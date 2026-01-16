@@ -1,0 +1,6 @@
+# Desafio 1: O "Validador de Estoque Crítico"
+
+Contexto: Na logística, não podemos esperar o estoque zerar para pedir mais. Tarefa: Crie uma função chamada verificar_ruptura(estoque_atual: int, estoque_minimo: int) -> bool.
+Se o estoque atual for menor que o mínimo, a função deve retornar True (alerta de ruptura).
+Adicione uma Docstring explicando os parâmetros.
+Destaque de Portfólio: Use essa função dentro de um loop para processar uma lista de produtos (ex: "Vestido", "Blusa") e imprimir quais precisam de reposição imediata.
